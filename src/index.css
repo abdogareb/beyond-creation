@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'DiodrumArabic';
+  src: local('DiodrumArabic'),
+      url('./assets/fonts/DiodrumArabic-Regular.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'SharpSans';
+  src: local('SharpSans'),
+      url('./assets/fonts/SharpSansNo1-Medium.ttf') format('opentype');
+}
